@@ -6,7 +6,7 @@ Este proyecto es un gestor de colas que utiliza RabbitMQ para manejar mensajes y
 
 1. Clona el repositorio
     ```sh
-    git clone https://github.com/tu-usuario/queue-manager.git
+    git clone https://github.com/lisa-vsqz/shak-notificaciones
     ```
 2. Navega al directorio del proyecto
     ```sh
