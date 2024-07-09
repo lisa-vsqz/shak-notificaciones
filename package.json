@@ -1,0 +1,15 @@
+{
+  "name": "notification-app",
+  "version": "1.0.0",
+  "description": "Notification application using RabbitMQ",
+  "main": "src/app.js",
+  "scripts": {
+    "start": "node src/app.js"
+  },
+  "dependencies": {
+    "amqplib": "^0.8.0",
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "nodemailer": "^6.9.14"
+  }
+}
